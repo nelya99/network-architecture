@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copie de Page-1" id="_t0JVR5NiwnuOZ3puEhK">
-    <mxGraphModel dx="1768" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1024" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1024" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="H-nOYA98qHVmAzr9k4N6-0" />
         <mxCell id="H-nOYA98qHVmAzr9k4N6-1" parent="H-nOYA98qHVmAzr9k4N6-0" />
@@ -1345,7 +1345,7 @@
           <mxGeometry height="58" width="258" x="102.12" y="795" as="geometry" />
         </mxCell>
         <mxCell id="gijb33Ps6fXiDf-sfPx0-2" parent="H-nOYA98qHVmAzr9k4N6-1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=light-dark(#001DBC,#CCCCCC);strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;fontColor=light-dark(#001DBC,#0000CC);strokeColor2=light-dark(#FFFFFF,#000000);" value="" vertex="1">
-          <mxGeometry height="25" width="40" x="137" y="811.5" as="geometry" />
+          <mxGeometry height="25" width="40" x="168" y="814" as="geometry" />
         </mxCell>
         <mxCell id="6iwNRTbF1a94WCmyC__n-0" parent="H-nOYA98qHVmAzr9k4N6-1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=light-dark(#036897, #c7c7c7);strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
           <mxGeometry height="23" width="44.56" x="198" y="873" as="geometry" />
@@ -1406,6 +1406,9 @@
             <mxPoint x="336" y="914" as="sourcePoint" />
             <mxPoint x="265" y="884" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RsUMvI48BUPCiwMEluyL-5" parent="H-nOYA98qHVmAzr9k4N6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBorderColor=none;fontColor=light-dark(#000000,#000000);fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Routeur PFsense : Pare-feu / DHCP / Wireguard&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="52.75" x="106" y="814" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
