@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copie de Page-1" id="_t0JVR5NiwnuOZ3puEhK">
-    <mxGraphModel dx="1768" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1024" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1024" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="H-nOYA98qHVmAzr9k4N6-0" />
         <mxCell id="H-nOYA98qHVmAzr9k4N6-1" parent="H-nOYA98qHVmAzr9k4N6-0" />
@@ -1709,6 +1709,12 @@
         </mxCell>
         <mxCell id="YOda8w1Vheis5mOtv0vF-0" parent="H-nOYA98qHVmAzr9k4N6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;labelBorderColor=none;fontColor=light-dark(#000000,#000000);fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="192.168.250.0/24" vertex="1">
           <mxGeometry height="27" width="156" x="1336" y="713.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YOda8w1Vheis5mOtv0vF-1" edge="1" parent="H-nOYA98qHVmAzr9k4N6-1" source="JzZipDEnxG5Dgs-uk-FR-25" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.87;exitY=0.74;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=light-dark(#000000,#000000);" target="JzZipDEnxG5Dgs-uk-FR-54" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="780" y="939" as="sourcePoint" />
+            <mxPoint x="830" y="889" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
