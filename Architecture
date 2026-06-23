@@ -1683,6 +1683,33 @@
         <mxCell id="JzZipDEnxG5Dgs-uk-FR-58" parent="H-nOYA98qHVmAzr9k4N6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;labelBorderColor=none;fontColor=light-dark(#000000,#000000);fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Secondaire / Distant" vertex="1">
           <mxGeometry height="20" width="124" x="897" y="955" as="geometry" />
         </mxCell>
+        <mxCell id="JzZipDEnxG5Dgs-uk-FR-61" edge="1" parent="H-nOYA98qHVmAzr9k4N6-1" source="D7A_VcZXJdeGkqrwReO8-11" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=light-dark(#000000,#808080);dashed=1;dashPattern=1 1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480.15" y="755" as="sourcePoint" />
+            <mxPoint x="681" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzZipDEnxG5Dgs-uk-FR-62" edge="1" parent="H-nOYA98qHVmAzr9k4N6-1" source="JzZipDEnxG5Dgs-uk-FR-0" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=light-dark(#000000,#808080);dashed=1;dashPattern=1 1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="728" y="749" as="sourcePoint" />
+            <mxPoint x="675" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzZipDEnxG5Dgs-uk-FR-63" edge="1" parent="H-nOYA98qHVmAzr9k4N6-1" source="RsUMvI48BUPCiwMEluyL-25" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=light-dark(#000000,#808080);dashed=1;dashPattern=1 1;exitX=0.488;exitY=-0.054;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="982" y="751" as="sourcePoint" />
+            <mxPoint x="673" y="692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzZipDEnxG5Dgs-uk-FR-64" parent="H-nOYA98qHVmAzr9k4N6-1" style="whiteSpace=wrap;html=1;opacity=90;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#000000,#999999);rounded=1;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=2;gradientColor=none;fillStyle=dashed;" value="" vertex="1">
+          <mxGeometry height="42.5" width="231.46" x="1299.99" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="JzZipDEnxG5Dgs-uk-FR-65" parent="H-nOYA98qHVmAzr9k4N6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;labelBorderColor=none;fontColor=light-dark(#000000,#000000);fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="TUNNEL VPN WIREGARD" vertex="1">
+          <mxGeometry height="27" width="156" x="1340" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="YOda8w1Vheis5mOtv0vF-0" parent="H-nOYA98qHVmAzr9k4N6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;labelBorderColor=none;fontColor=light-dark(#000000,#000000);fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="192.168.250.0/24" vertex="1">
+          <mxGeometry height="27" width="156" x="1336" y="713.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
